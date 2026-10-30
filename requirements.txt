@@ -1,0 +1,24 @@
+-e git+https://gitlab.cern.ch/blond/BLonD.git@5822f9678365d87eae1bd93f22a32ebbe3f6aa1d#egg=blond
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.66.1
+kiwisolver==1.5.1
+llvmlite==0.45.1
+matplotlib==3.11.2
+mpmath==1.3.0
+numba==0.62.1
+numpy==2.3.5
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1785888127/work
+pandas==3.0.6
+pillow==12.3.0
+pyflakes==4.0.3
+pyparsing==3.3.3
+python-dateutil==2.9.0.post0
+scikit-rf==2.1.0
+scipy==1.18.1
+setuptools==84.0.0
+six==1.17.0
+sympy==1.14.0
+tqdm==4.70.1
+typing_extensions==4.16.0
+wheel==0.48.0
