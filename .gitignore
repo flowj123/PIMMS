@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.png
+*.npz
+.DS_Store
+.venv/
+venv/
+results/
+blond_repo/
+.ipynb_checkpoints/
+*.egg-info/
